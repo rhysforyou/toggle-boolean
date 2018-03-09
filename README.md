@@ -2,3 +2,10 @@
 
 This library defines the `.toggle()` method on a Boolean, returning its inverse
 value in an efficient manner.
+
+```js
+import 'toggle-boolean'
+
+const myBoolean = true
+console.log(myBoolean.toggle()) // "false"
+```
