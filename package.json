@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/rhysforyou/toggle-boolean#readme",
   "devDependencies": {
-    "jest": "^22.4.2"
+    "jest": "^22.4.3"
   }
 }
